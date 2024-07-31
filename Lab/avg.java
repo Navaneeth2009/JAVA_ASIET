@@ -1,3 +1,6 @@
+//WAP to find average of two numbers
+//Navaneeth Santosh
+//45
 import java.util.*;
 class avg
 {
