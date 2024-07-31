@@ -1,3 +1,6 @@
+//WAP to find square root of a number
+//Navaneeth Santosh
+//45
 import java.lang.*;
 import java.util.*;
 class sqrt
