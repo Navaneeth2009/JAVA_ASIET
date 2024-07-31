@@ -1,3 +1,6 @@
+//WAP to add three numbers
+//Navaneeth Santosh
+//45
 import java.util.*;
 class sum
 {
