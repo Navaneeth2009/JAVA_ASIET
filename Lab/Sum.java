@@ -1,3 +1,6 @@
+//WAP to add two numbers
+//Navaneeth Santosh
+//45
 class Sum
 {
 	public static void main(String args[])
