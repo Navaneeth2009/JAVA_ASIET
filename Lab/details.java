@@ -1,3 +1,6 @@
+//WAP to recieve and display details of Name,Class and Roll no.
+//Navaneeth Santosh
+//45
 import java.util.*;
 class details
 {
