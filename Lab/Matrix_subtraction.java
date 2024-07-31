@@ -1,3 +1,6 @@
+//WAP to subtract two matrices
+//Navaneeth Santosh
+//45
 import java.util.*;
 class matrixdiff
 {
