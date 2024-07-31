@@ -1,4 +1,6 @@
-
+//WAP to multiply two matrices
+//Navaneeth Santosh
+//45
 import java.util.*;
 class matrixpro
 {
