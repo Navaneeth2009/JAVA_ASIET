@@ -1,3 +1,6 @@
+//WAP to add a number of elements to an array
+//Navaneeth Santosh
+//45
 import java.util.*;
 class arraysum
 {
