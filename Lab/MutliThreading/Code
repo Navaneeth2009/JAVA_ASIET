@@ -1,5 +1,6 @@
 //Navaneeth Santosh
-//45import java.util.*;
+//45
+import java.util.*;
 
 class thread1 implements Runnable {
     public void run() {
